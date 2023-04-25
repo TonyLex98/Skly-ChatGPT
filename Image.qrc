@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/bluetooth.png</file>
+        <file>Images/Settings.png</file>
+        <file>Images/Skly.png</file>
+        <file>Images/back.png</file>
+        <file>Images/update.png</file>
+        <file>Images/clear.png</file>
+        <file>Images/send.png</file>
+        <file>Images/apply.png</file>
+    </qresource>
+</RCC>
